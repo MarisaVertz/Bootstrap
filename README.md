@@ -1,7 +1,7 @@
 <h1>Bootstrap!</h1>
 <p>I have discovered Bootstrap! Here is a simple example of my ability to utilize bootstrap and slightly customize it. Bootstrap is great for quick and responsive prototypes.</p>
 <a href="https://marisavertz.github.io/Bootstrap/">
-  <img src="https://raw.githubusercontent.com/MarisaVertz/Bootstrap-/refs/heads/main/11.2%20Bootstrap%20Components/MoveIt.png" width="500">
+  <img src="https://raw.githubusercontent.com/MarisaVertz/Bootstrap/refs/heads/main/images/MoveIt.png" width="500">
 </a>
 <br><br>
 <a href="https://marisavertz.github.io/Bootstrap/">
